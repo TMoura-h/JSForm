@@ -6,8 +6,11 @@ Versão
 1.0
 
 Como Usar:
+
 Baixar o repositório para maquina:
+
 no promp ou no terminal colar o comando abaixo:
+
 git clone https://github.com/TMoura-h/JSForm.git
 
 Tambem pode ser feito o Download do arquivo em zip, descompactar e clicar no arquivo HTML. 
